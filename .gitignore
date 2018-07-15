@@ -4,3 +4,4 @@ django-*
 *.egg-info
 dist/
 build/
+*
